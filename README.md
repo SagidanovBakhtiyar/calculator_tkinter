@@ -1,1 +1,1 @@
-# calculator_tkinter
+# Calculator using Tkinter
